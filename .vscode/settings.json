@@ -1,0 +1,205 @@
+{
+
+    "workbench.colorCustomizations": {
+
+
+
+
+        "[Material Theme Darker High Contrast]": {
+
+            "activityBarBadge.background": "#FFA000",
+
+            "activityBar.activeBorder": "#FFA000",
+
+            "list.activeSelectionForeground": "#FFA000",
+
+            "list.inactiveSelectionForeground": "#FFA000",
+
+            "list.highlightForeground": "#FFA000",
+
+            "scrollbarSlider.activeBackground": "#FFA00050",
+
+            "editorSuggestWidget.highlightForeground": "#FFA000",
+
+            "textLink.foreground": "#FFA000",
+
+            "progressBar.background": "#FFA000",
+
+            "pickerGroup.foreground": "#FFA000",
+
+            "tab.activeBorder": "#FFA000",
+
+            "notificationLink.foreground": "#FFA000",
+
+            "editorWidget.resizeBorder": "#FFA000",
+
+            "editorWidget.border": "#FFA000",
+
+            "settings.modifiedItemIndicator": "#FFA000",
+
+            "settings.headerForeground": "#FFA000",
+
+            "panelTitle.activeBorder": "#FFA000",
+
+            "breadcrumb.activeSelectionForeground": "#FFA000",
+
+            "menu.selectionForeground": "#FFA000",
+
+            "menubar.selectionForeground": "#FFA000",
+
+            "editor.findMatchBorder": "#FFA000",
+
+            "selection.background": "#FFA00040",
+
+            "statusBarItem.remoteBackground": "#FFA000"
+
+        }
+
+    },
+
+    "materialTheme.accent": "Yellow",
+
+    "workbench.iconTheme": "material-icon-theme",
+
+    "[javascript]": {
+
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+
+    },
+
+    "thunder-client.codeSnippetLanguage": "cs-httpclient",
+
+    "javascript.updateImportsOnFileMove.enabled": "always",
+
+    "[handlebars]": {
+
+        "editor.defaultFormatter": "vscode.html-language-features"
+
+    },
+
+    "[html]": {
+
+        "editor.defaultFormatter": "vscode.html-language-features"
+
+    },
+
+    "liveServer.settings.donotShowInfoMsg": true,
+
+    "editor.accessibilitySupport": "off",
+
+    "editor.fontSize": 19,
+
+    // "editor.fontLigatures": null,
+
+    "emmet.includeLanguages": {
+
+        "javascript": "javascriptreact"
+
+    },
+
+    "[json]": {
+
+        "editor.quickSuggestions": {
+
+            "strings": true
+
+        },
+
+        "editor.suggest.insertMode": "replace"
+
+    },
+
+    "workbench.preferredLightColorTheme": "Default Dark+",
+
+    "explorer.confirmDelete": false,
+
+    "projectManager.git.baseFolders": [
+
+        "/home/sd08/projects"
+
+    ],
+
+    "kite.showWelcomeNotificationOnStartup": false,
+
+    "editor.suggestSelection": "first",
+
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+
+    "grunt.autoDetect": "on",
+
+    "bracketPairColorizer.depreciation-notice": false,
+
+    "git.suggestSmartCommit": false,
+
+    "thunder-client.htmlView": "Preview",
+
+    "vsicons.dontShowNewVersionMessage": true,
+
+    "cSpell.userWords": [
+
+        "forginefield"
+
+    ],
+
+    "editor.guides.bracketPairs": "active",
+
+    "editor.bracketPairColorization.enabled": true,
+
+    "terminal.integrated.env.linux": {},
+
+    "typescript.updateImportsOnFileMove.enabled": "always",
+
+    "workbench.startupEditor": "none",
+
+    "editor.wordWrap": "on",
+
+    "diffEditor.wordWrap": "on",
+
+    "gitlens.graph.layout": "editor",
+
+    "yaml.schemas": {
+        "file:///home/softlabs/.vscode/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+
+    "atlascode.bitbucket.enabled": true,
+
+    "[typescript]": {
+
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+
+    },
+
+    "atlascode.jira.lastCreateSiteAndProject": {
+
+        "siteId": "",
+
+        "projectKey": ""
+
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "redhat.telemetry.enabled": false,
+    "tabnine.experimentalAutoImports": true,
+    "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "settingsSync.ignoredSettings": [
+        "editor.fontFamily"
+    ],
+    "editor.fontFamily": "'Fira Code','Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "gitlens.ai.experimental.provider": "openai",
+    "gitlens.ai.experimental.openai.model": "gpt-3.5-turbo-1106",
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.editorAssociations": {
+        "*.class": "default",
+        "*.groovy": "default"
+    },
+    
+
+}
